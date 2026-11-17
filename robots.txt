@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nevstopsharon.github.io/shandong-bingguang-media/sitemap.xml
