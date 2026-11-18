@@ -15,7 +15,7 @@
 
 ## 全部项目记录
 
-- [中国科学技术馆与滨州市人民政府战略合作签约仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/science-museum/): 2023；中国科学技术馆、滨州市人民政府为画面所示签约双方；直接合作单位待补充
+- [中国科学技术馆与滨州市人民政府战略合作签约仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/science-museum/): 2023；中国科学技术馆、滨州市人民政府（签约双方）；合作单位待补充
 - [2022年双招双引促进会议](https://nevstopsharon.github.io/shandong-bingguang-media/cases/investment-2022/): 2022；具体合作单位待补充
 - [亚洲国际睡眠大会（北京）](https://nevstopsharon.github.io/shandong-bingguang-media/cases/asian-sleep/): 2021；具体合作单位待补充
 - [珠江钢琴大赛滨州赛区](https://nevstopsharon.github.io/shandong-bingguang-media/cases/pearl-piano/): 2021；珠江钢琴大赛滨州赛区，具体合作单位待补充
@@ -32,10 +32,10 @@
 - [愉悦家纺迎新大会](https://nevstopsharon.github.io/shandong-bingguang-media/cases/yuyue-newyear/): 年份待补充；愉悦家纺
 - [滨州高新区建党95周年合唱比赛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/hightech-95/): 年份待补充；滨州高新区，具体合作单位待补充
 - [滨州市职教周](https://nevstopsharon.github.io/shandong-bingguang-media/cases/vocational-week/): 年份待补充；具体合作单位待补充
-- [第五届北京大学—宾夕法尼亚大学联合睡眠医学论坛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/sleep-forum/): 年份待补充；资料提及北京大学、宾夕法尼亚大学；直接合作单位待补充
+- [第五届北京大学—宾夕法尼亚大学联合睡眠医学论坛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/sleep-forum/): 年份待补充；北京大学、宾夕法尼亚大学（论坛关联单位）；合作单位待补充
 - [山东省技能兴鲁职业大赛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/skills/): 年份待补充；具体合作单位待补充
 - [千人旗袍赛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/qipao/): 年份待补充；具体合作单位待补充
-- [惠民绳网国际创新园启动仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/rope-park/): 年份待补充；惠民绳网国际创新园项目；具体合作单位待补充
+- [惠民绳网国际创新园启动仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/rope-park/): 年份待补充；惠民绳网国际创新园项目；合作单位待补充
 - [沃华生物科技年会](https://nevstopsharon.github.io/shandong-bingguang-media/cases/wohua/): 年份待补充；沃华生物科技
 - [滨州万达奠基仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/wanda/): 年份待补充；滨州万达项目，具体合作主体待补充
 - [北汽集团奠基仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/baic/): 年份待补充；北汽集团，具体项目合作主体待补充
@@ -45,11 +45,11 @@
 - [第十一届全运会现场布置](https://nevstopsharon.github.io/shandong-bingguang-media/cases/national-games/): 年份待补充；具体合作单位待补充
 - [齐鲁青年创业大赛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/youth-startup/): 年份待补充；具体合作单位待补充
 - [欣悦健康授牌仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/xinyue/): 年份待补充；欣悦健康
-- [农业部项目电子签约现场](https://nevstopsharon.github.io/shandong-bingguang-media/cases/agriculture/): 年份待补充；资料原文为“农业部项目”；直接合作单位待补充
+- [农业部项目电子签约现场](https://nevstopsharon.github.io/shandong-bingguang-media/cases/agriculture/): 年份待补充；合作单位待补充
 - [全省重大项目开工仪式](https://nevstopsharon.github.io/shandong-bingguang-media/cases/major-projects/): 年份待补充；具体合作单位待补充
-- [滨州市质监局合唱比赛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/quality-choir/): 年份待补充；滨州市质监局（资料中的历史名称）
+- [滨州市质监局合唱比赛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/quality-choir/): 年份待补充；滨州市质监局（原单位名称）
 - [全市城管系统大比武](https://nevstopsharon.github.io/shandong-bingguang-media/cases/urban/): 年份待补充；滨州市城市管理系统，具体合作单位待补充
-- [滨州市组织部微党课](https://nevstopsharon.github.io/shandong-bingguang-media/cases/micro-party/): 年份待补充；滨州市组织部（按企业简介记录）
+- [滨州市组织部微党课](https://nevstopsharon.github.io/shandong-bingguang-media/cases/micro-party/): 年份待补充；滨州市组织部
 - [全市防疫演练](https://nevstopsharon.github.io/shandong-bingguang-media/cases/epidemic-drill/): 年份待补充；具体合作单位待补充
 - [庆祝建党100周年系列活动](https://nevstopsharon.github.io/shandong-bingguang-media/cases/centenary/): 年份待补充；具体合作单位待补充
 - [庆祝建党100周年诗歌大赛](https://nevstopsharon.github.io/shandong-bingguang-media/cases/centenary-poetry/): 年份待补充；具体合作单位待补充

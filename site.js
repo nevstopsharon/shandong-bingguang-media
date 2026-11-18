@@ -48,7 +48,7 @@
       if (!card.hidden) count++;
       list.append(card);
     }
-    document.getElementById('case-count').textContent = '共 ' + count + ' 条案例与现场记录';
+    document.getElementById('case-count').textContent = '共 ' + count + ' 项';
     document.getElementById('empty-state').hidden = count !== 0;
     if (replace) {
       const next = new URL(location.href);
